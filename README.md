@@ -49,8 +49,4 @@ The final model is highly performant and can be used to automatically classify T
 
 ---
 
-## How to Run
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/tiktok-claims-classification.git
